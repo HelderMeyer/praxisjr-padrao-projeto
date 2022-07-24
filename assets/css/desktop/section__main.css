@@ -1,0 +1,63 @@
+/*
+FORMATAÇÃO DA SECTION MAIN
+*/
+
+.section__main {
+
+    padding-top: 150px;
+    background-color: #CED8E2;
+    padding-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+
+}
+
+/*
+FORMATAÇÃO DO TÍTULO DA SECTION MAIN
+*/
+
+.section__main__h1 {
+
+    color: black;
+    display: block;
+    padding-left: 2vw;
+    font-size: 26px;
+    font-weight: 900;
+
+}
+
+/*
+FORMATAÇÃO DOS ELEMENTOS CAIXA DA SECTION MAIN
+*/
+
+.box__format {
+
+    display: flex;
+    flex-direction: row;
+    text-align: justify;
+
+}
+
+.box__format p {
+
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 50px;
+    font-size: 20px;
+    background-color: #112B3C;
+    border-radius: 15px;
+    padding: 10px;
+    color: #1DC9A1;
+
+}
+
+.section__main img {
+
+    width: 600px;
+    height: 350px;
+    margin-left: 2vw;
+    margin-top: 50px;
+
+}
+
